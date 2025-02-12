@@ -1,6 +1,6 @@
 # ChatBlog Social Media WebApp
 
-Chat Blog is a full-stack social media platform for creating, managing posts, media, and comments. Built with ReactJS, Spring Boot, and MySQL, it offers user authentication, real-time chat, and profile management, delivering an interactive and engaging social experience.
+Chat Blog is a Full-stack social media platform for creating, managing posts, media, and comments. Built with ReactJS, Spring Boot, and MySQL, it offers user authentication, real-time chat, and profile management, delivering an interactive and engaging social experience.
 
 ![Image 1](/Images/ChatBlog%20Image%201.png)
 ![Image 2](/Images/ChatBlog%20Image%202.png)
